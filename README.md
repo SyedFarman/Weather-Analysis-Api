@@ -31,3 +31,4 @@ plt.ylabel("Max Temp")
 (linear_reg_plot(x_values,y_values,xytext,"south_hemisphere Lat VS Max Temp.png"))
 
 ![image](https://user-images.githubusercontent.com/24644072/226075734-573f5e72-bd03-44a8-aebd-4abe17dd1681.png)
+
